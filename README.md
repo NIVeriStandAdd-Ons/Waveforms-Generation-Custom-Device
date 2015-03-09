@@ -1,6 +1,6 @@
 ## IP Name ##
 
-Waveforms Generation Custom-Device
+Waveforms Generation Custom-Device.
 Refer to WEB-Page: for more information:
 https://decibel.ni.com/content/docs/DOC-41676
 You can give feedback on following page:
